@@ -1,0 +1,17 @@
+export const homeObjOne = {
+  primary: true,
+  lightBg: false,
+  lightTopLine: true,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: 'Price Alert',
+  description: 'Get notified when a coin goes above. Or below a price target.',
+  description2: 'Send me an email',
+  description3: 'as soon as',
+  description4: 'goes',
+  description5: 'The price of',
+  buttonLabel: 'Set Alert',
+  imgStart: '',
+  alt: 'Data',
+  start: '',
+}
